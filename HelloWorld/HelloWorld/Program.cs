@@ -10,7 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!\n============");
+            Console.WriteLine("Hello World!\n============\n");
+            Console.WriteLine("Just learning to use github");
 
             Console.ReadKey();
         }
