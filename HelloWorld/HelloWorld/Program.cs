@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!\n============\n");
             Console.WriteLine("Just learning to use github");
+            Console.WriteLine("Just made another change");
 
             Console.ReadKey();
         }
